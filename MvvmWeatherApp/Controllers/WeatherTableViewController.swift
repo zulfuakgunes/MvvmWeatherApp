@@ -26,7 +26,6 @@ class WeatherTableViewController: UITableViewController{
         cell.cityNameLabel.text = "Houston"
         cell.degreeLabel.text = "70"
         
-        
         return cell
     }
 
